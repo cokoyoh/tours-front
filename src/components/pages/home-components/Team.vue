@@ -5,10 +5,10 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 wow fadeInLeft" data-wow-delay="1.8s">
                     <img src="../../../../src/images/team/team-member-1.jpg" alt="" class="img-circle">
-                    <h4 class="wow fadeInUp">Roussoss Demisse</h4>
-                    <b>Co-Founder & CEO</b>
+                    <h4 class="wow fadeInUp">Jim Africo</h4>
+                    <b>Founder & CEO</b>
                     <p class="wow fadeInUp" data-wow-delay="0.4s">
-                        Roussoss is the CEO of Gora, Inc. He's in charge of Administrative Division.
+                         Jim is the founder and the CEO of Jimafrico Tours & Travel
                     </p>
                     <a href="https://www.facebook.com/charles.okoyoh.7" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                     <a href="https://twitter.com/@cokoyoh" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
@@ -16,10 +16,10 @@
                 </div>
                 <div class="col-lg-4 col-md-4 wow fadeInLeft" data-wow-delay="1.4s">
                     <img src="../../../../src/images/team/team-member-2.jpg" alt="" class="img-circle">
-                    <h4 class="wow fadeInUp">Charles Okoyoh</h4>
-                    <b>Developer & CTO</b>
+                    <h4 class="wow fadeInUp">Foo Bar</h4>
+                    <b>Liaison Officer</b>
                     <p class="wow fadeInUp" data-wow-delay="0.4s">
-                       Charles is the CTO of Gora, Inc. He's in charge of the Software Division.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, spanu puas
                     </p>
                     <a href="https://www.facebook.com/charles.okoyoh.7" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                     <a href="https://twitter.com/@cokoyoh" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>

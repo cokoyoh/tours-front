@@ -8,10 +8,10 @@
                 </div>
                 <div class="col-lg-4 col-md-4">
                     <h2>50+</h2>
-                    <h4 class="center">Projects Completed</h4>
+                    <h4 class="center">Destinations woldwide</h4>
                 </div>
                 <div class="col-lg-4 col-md-4">
-                    <h2>60+</h2>
+                    <h2>120+</h2>
                     <h4 class="center">Clients Served</h4>
                 </div>
             </div>
