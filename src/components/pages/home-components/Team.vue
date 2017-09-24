@@ -28,7 +28,7 @@
                 <div class="col-lg-4 col-md-4 wow fadeInLeft" data-wow-delay="0.8s">
                     <img src="../../../../src/images/team/team-member-1.jpg" alt="" class="img-circle">
                     <h4 class="wow fadeInUp">Abc Xyz</h4>
-                    <b>Developer</b>
+                    <b>Marketing Officer</b>
                     <p class="wow fadeInUp" data-wow-delay="0.4s">Lorem ipsum dolor sit amet, consectetur adipiscing
                         elit, spanu puas</p>
                     <a href="https://www.facebook.com/charles.okoyoh.7" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
