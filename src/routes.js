@@ -26,7 +26,7 @@ const router = new VueRouter({
         },
         {
             path: '/services',
-            component: require('./components/pages/Services.vue'),
+            component: require('./components/pages/Services/Services.vue'),
             name:'services',
             meta: {
                 requiresAuth: false ,

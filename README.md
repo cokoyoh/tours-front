@@ -1,4 +1,4 @@
-# Tours frontend
+# Tours Front-end
 This is the front end of some application I am building for a tours and  travel agency
 
 > A Vue.js project

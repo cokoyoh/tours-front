@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6">
-                    <p><i class="fa fa-home" aria-hidden="true"></i> 123, Nairobi </p>
+                    <p><i class="fa fa-home" aria-hidden="true"></i> ABC Place, Waiyaki way </p>
                     <p><i class="fa fa-envelope" aria-hidden="true"></i> info@jimafrico.co.ke</p>
                     <p><i class="fa fa-globe" aria-hidden="true"> www.jimafrico.co.ke</i></p>
                 </div>

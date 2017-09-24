@@ -3,19 +3,19 @@
         <div class="container">
             <h2>About Us</h2>
             <p>
-                Gora is a Kenyan Innovative firm located in beautiful city of Nairobi and in our 3rd year of the website design, mobile site design, website redesign, programming, graphic design for web or print, branding strategy, logo design, eCommerce, online store development, affordable website hosting, SEO, site promotion, social media management & product photography.
+                Jimafrico tours and travel is an independent travel management company that specializes in effective, efficient and stress-free business travel provision.
             </p>
             <p>
-                We are the small design company the big companies choose time and time again for good reason. We offer affordable business-to-business solutions for small, medium, and large businesses.
+                Everything we do is dedicated to getting you to your destination in the most efficient and cost-effective way, taking specific preferences into account at every stage of the process.
             </p>
             <p>
-                All projects start with a free evaluation then a written estimate & terms.
+                 At Jimafrico, we value our customers which is why we go out of our way to ensure that our customer needs are met efficiently and professionally
             </p>
             <h4>
                 <b>Why Choose us</b>
             </h4>
             <p>
-                Our great customer services, response time & our quick turn around time. We deliver within agreed time.
+                We are reliable, professional,efficient & cost effective
             </p>
 
         </div>
